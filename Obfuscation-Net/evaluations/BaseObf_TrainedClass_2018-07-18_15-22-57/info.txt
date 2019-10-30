@@ -1,0 +1,18 @@
+Evaluation of the Base Obfuscation Network (~40% accuracy) with the trained Classification network starting with epoch 55(~78% accuracy) to epoch 100(~81% accuracy) using CIFAR-10 testing set.
+
+Datetime: 2018-07-18_15-22-57
+Number of training images: 50016
+Number of testing images: 10000
+Classification NN   (dynamic):  class-model_resnet18_ep-55_ac-78.750.t7
+Obfuscation NN      (static):   obf-model_resnet18_ep-100_ac-40.680.t7
+
+Epoch, 55, Accuracy, 23.440
+Epoch, 60, Accuracy, 20.520
+Epoch, 65, Accuracy, 17.230
+Epoch, 70, Accuracy, 19.010
+Epoch, 75, Accuracy, 18.270
+Epoch, 80, Accuracy, 18.870
+Epoch, 85, Accuracy, 16.350
+Epoch, 90, Accuracy, 20.030
+Epoch, 95, Accuracy, 15.480
+Epoch, 100, Accuracy, 16.330

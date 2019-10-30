@@ -1,0 +1,10 @@
+Epoch: 55 Label: plane, Prediction ship
+Epoch: 60 Label: cat, Prediction plane
+Epoch: 65 Label: cat, Prediction car
+Epoch: 70 Label: cat, Prediction truck
+Epoch: 75 Label: bird, Prediction car
+Epoch: 80 Label: car, Prediction horse
+Epoch: 85 Label: bird, Prediction truck
+Epoch: 90 Label: car, Prediction car
+Epoch: 95 Label: plane, Prediction car
+Epoch: 100 Label: plane, Prediction ship

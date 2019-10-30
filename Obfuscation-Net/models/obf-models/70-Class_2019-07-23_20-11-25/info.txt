@@ -1,0 +1,16 @@
+Updated Obfuscation training with full CIFAR-10 dataset using classification nn trained for an additional 20 epochs and full CIFAR-10 dataset.
+
+Datetime: 2019-07-23_20-11-25
+Number of training images: 128
+Number of testing images: 100
+Starting Classification NN: class-model_resnet18_ep-55_ac-78.750.t7
+
+
+Epoch, 0, Accuracy, 20.000
+Epoch, 1, Accuracy, 20.000
+Epoch, 2, Accuracy, 0.000
+Epoch, 3, Accuracy, 0.000
+Epoch, 4, Accuracy, 40.000
+Epoch, 5, Accuracy, 0.000
+Epoch, 6, Accuracy, 20.000
+Epoch, 7, Accuracy, 0.000

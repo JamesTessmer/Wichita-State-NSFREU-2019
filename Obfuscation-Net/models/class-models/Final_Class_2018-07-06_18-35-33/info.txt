@@ -1,0 +1,18 @@
+Resuming ResNet18 classification training with full CIFAR-10 dataset
+
+Datetime: 2018-07-06_18-35-33
+Initial Model: ../models/class-models/2018-06-29_21-28-00/class-model_resnet18_ep-50_ac-70.820.t7
+Number of training images: 50000
+Number of testing images: 10000
+
+
+Epoch: 55, Accuracy: 78.750
+Epoch: 60, Accuracy: 78.980
+Epoch: 65, Accuracy: 79.530
+Epoch: 70, Accuracy: 82.090
+Epoch: 75, Accuracy: 80.350
+Epoch: 80, Accuracy: 81.260
+Epoch: 85, Accuracy: 76.240
+Epoch: 90, Accuracy: 80.720
+Epoch: 95, Accuracy: 80.810
+Epoch: 100, Accuracy: 81.530

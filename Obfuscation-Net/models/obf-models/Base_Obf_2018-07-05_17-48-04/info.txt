@@ -1,0 +1,27 @@
+Initial Obfuscation training with limited CIFAR-10 dataset
+
+Datetime: 2018-07-05_17-48-04
+Number of training images: 20000
+Number of testing images: 5000
+
+
+Epoch: 5, Accuracy: 16.300
+Epoch: 10, Accuracy: 18.020
+Epoch: 15, Accuracy: 18.960
+Epoch: 20, Accuracy: 24.500
+Epoch: 25, Accuracy: 27.000
+Epoch: 30, Accuracy: 30.060
+Epoch: 35, Accuracy: 33.380
+Epoch: 40, Accuracy: 35.740
+Epoch: 45, Accuracy: 36.100
+Epoch: 50, Accuracy: 37.320
+Epoch: 55, Accuracy: 38.140
+Epoch: 60, Accuracy: 39.080
+Epoch: 65, Accuracy: 40.900
+Epoch: 70, Accuracy: 40.260
+Epoch: 75, Accuracy: 40.860
+Epoch: 80, Accuracy: 41.600
+Epoch: 85, Accuracy: 39.860
+Epoch: 90, Accuracy: 41.140
+Epoch: 95, Accuracy: 40.360
+Epoch: 100, Accuracy: 40.680

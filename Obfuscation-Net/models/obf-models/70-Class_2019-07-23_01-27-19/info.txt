@@ -1,0 +1,8 @@
+Updated Obfuscation training with full CIFAR-10 dataset using classification nn trained for an additional 20 epochs and full CIFAR-10 dataset.
+
+Datetime: 2019-07-23_01-27-19
+Number of training images: 128
+Number of testing images: 100
+Starting Classification NN: class-model_resnet18_ep-55_ac-78.750.t7
+
+
