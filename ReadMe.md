@@ -20,6 +20,7 @@ important notes:
 	-The genome files are all the data I've used for this research, so GeNet should be run first to make sure this data is present and usable for the rest of the code.
 	-I had issues with compatibility when trying to initially install GeNet, I solved this by removing version numbers from the environment file and using that to install the required libraries/packages. I haven't had version issues since then, but as things change issues may arise so a copy of the original environment file with version numbers is included for reference.
 
+I take no credit for the original work done on GeNet.
 
 Obfuscation Network
 Source Code - https://github.com/kuangliu/pytorch-cifar.
@@ -44,3 +45,4 @@ Final Notes:
 	-The results of GeNet training can be visualized in TensorBoard, but the other networks are not set up to use this
 	-This work has been done on a VirtualBox Ubuntu virtual machine, so work done on another system may require unforseen changes
 
+I take no credit for the original work done on the Obfuscation net.
