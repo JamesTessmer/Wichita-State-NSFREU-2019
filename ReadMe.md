@@ -1,8 +1,8 @@
-NetCPS REU 2019 - James Tessmer
+# NetCPS REU 2019 - James Tessmer
 Securing Microbiome Classification via Obfuscation
 There are two main parts in this research: The GeNet model and the Obfuscation model. Both have their own ReadMe detailing installation instructions and any required packages/libraries, so I will cover the new things I've added and any additional resources required along with any other clarifying or important information.
 
-GeNet
+# GeNet
 Source Code - https://github.com/mrojascarulla/GeNet
 Directories:  
 GeNet/ : contains the ReadMe along withe environment and install requirements files.
@@ -22,7 +22,7 @@ important notes:
 
 I take no credit for the original work done on GeNet.
 
-Obfuscation Network
+# Obfuscation Network
 Source Code - https://github.com/kuangliu/pytorch-cifar.
 The readme included in the obfuscation directory is comprehensive enough in regards to what's contained in each directory and how to run the original files so I will only include my additions here.
 
@@ -37,7 +37,7 @@ I've also added a custom dataset, described below, to obf-training.py but a prop
 In Obfuscation-Net/Data I've included TaxoTree.py, which is the inclusion of some code to pull the genus of each genome from the csv files to be used as labels for ResNet18Gene.py
 This directory also includes gene_dataset.py which is used in ResNet18Gene.py as a custom dataset. It converts genomes to images and returns these along with the label to the dataloader.
 
-Final Notes:
+# Final Notes:
 	-There are some hardcoded paths as my virtual machine didn't have enough disk space to store the genomes in both the GeNet folder and the obfuscation folder. These paths are located in:
 		-Obfuscation-Net/ResNet18Gene.py, line 33
 		-Obfuscation-Net/obf-training.py, line 174
